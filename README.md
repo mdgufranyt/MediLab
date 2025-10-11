@@ -26,4 +26,4 @@ Designed for **MediLab Health Clinic (Delhi)** to provide patients with easy acc
 ---
 
 ## 🔗 Live Demo
-- [**visit**](https://mdzafar99.github.io/MediLab-Plus/)
+- [**visit**](https://mdgufranyt.github.io/MediLab-Plus/)
