@@ -1,4 +1,4 @@
-# 🏥 **MediLab+** : Health Clinic Management System 
+# 🏥 **MediLab** : Health Clinic Management System 
 
 ![Image](https://github.com/user-attachments/assets/ae3054d4-b5bb-498d-80fb-d953ad8b43ee)
 
